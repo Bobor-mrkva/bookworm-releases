@@ -3,6 +3,23 @@
     <channel>
         <title>Bookworm</title>
         <item>
+            <title>0.4.2</title>
+            <pubDate>Sat, 10 Oct 2026 14:15:06 +0200</pubDate>
+            <link>https://github.com/Bobor-mrkva/bookworm</link>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/Bobor-mrkva/bookworm-releases/releases/download/latest/Bookworm-0.4.2.dmg" length="2902874" type="application/octet-stream" sparkle:edSignature="/o0R44EJFeK0XeLZtZ4gb/ueVrO5ogwgNUfF/Ysjw1tJhLMJjuM5kPJULgsdU8uexNMW/8G2b9WwsooN6SgkCA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Bobor-mrkva/bookworm-releases/releases/download/latest/Bookworm17-16.delta" sparkle:deltaFrom="16" length="203598" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="keKPWKm7O6cofFJ+YclsliKJDL2PLLw5sIRzH2cqO8hsc6rVe5wenKTOMRzFXhrOA5Uoie++FF+8Up0kvQ3ICg=="/>
+                <enclosure url="https://github.com/Bobor-mrkva/bookworm-releases/releases/download/latest/Bookworm17-15.delta" sparkle:deltaFrom="15" length="210294" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LfhSqAiyuyxKDVtyEbm82RCuiqLccFTC3tXNtP38BUEUeuwVg/EBDbWOkRkCUMt4wOxtP1aRPGVnTtQlAVP9Bg=="/>
+                <enclosure url="https://github.com/Bobor-mrkva/bookworm-releases/releases/download/latest/Bookworm17-13.delta" sparkle:deltaFrom="13" length="413530" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cZAngQlfuR0nRm5SPPttZw7zI3omY2/6+8Qu5w+HeMVUjCX0bQFWIZ1DmUfjyV61jPk7QSS5Rna3zDEFWhS0AA=="/>
+                <enclosure url="https://github.com/Bobor-mrkva/bookworm-releases/releases/download/latest/Bookworm17-9.delta" sparkle:deltaFrom="9" length="746290" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Ls7ZD7+ufCXlEfSOD4CYFFvycK4lf6WFJ1S2t/QJfQmGEZyFsiIvg1d1chiWGOrwgL2bQwlLdLUSVDzhpX6cBg=="/>
+                <enclosure url="https://github.com/Bobor-mrkva/bookworm-releases/releases/download/latest/Bookworm17-6.delta" sparkle:deltaFrom="6" length="945770" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QH/zU/ELm8u2Xi7wU4V/A1+1xJTEaut6YxXULNDaIiUFdutiQDA/7XLdeXIharE4j2sJuFOKAqFf1W7Dj44yDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.4.1</title>
             <pubDate>Sat, 10 Oct 2026 12:58:44 +0200</pubDate>
             <link>https://github.com/Bobor-mrkva/bookworm</link>
@@ -34,23 +51,6 @@
                 <enclosure url="https://github.com/Bobor-mrkva/bookworm-releases/releases/download/latest/Bookworm15-6.delta" sparkle:deltaFrom="6" length="938774" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9Xp1GnUFS9dO119HdTzqTP6GWpGdp8Gw+T4wxLmkqx2nzQUuP8ipbViOG9RiYfvUnwgvP64Nb+eNz+2JVQC4Cg=="/>
                 <enclosure url="https://github.com/Bobor-mrkva/bookworm-releases/releases/download/latest/Bookworm15-5.delta" sparkle:deltaFrom="5" length="939550" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+xeODMFjtMq5ki0wiDOOuwB1OpCULe0YNVj6eA8RbRDSBrtgYWaokc3sJ0jdBCtzCUaaq4IH0uM58vDcCq8jDw=="/>
                 <enclosure url="https://github.com/Bobor-mrkva/bookworm-releases/releases/download/latest/Bookworm15-4.delta" sparkle:deltaFrom="4" length="957782" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="M0z3W0pz/zVtyCX84jElHvXYtyAgCAUBc4XqTNRX4lJpad83grvCBrPvIYyEAmBWiw9iCszVQvGlbD4l//XTAw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.3.1</title>
-            <pubDate>Mon, 05 Oct 2026 08:36:45 +0200</pubDate>
-            <link>https://github.com/Bobor-mrkva/bookworm</link>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Bobor-mrkva/bookworm-releases/releases/download/latest/Bookworm-0.3.1.dmg" length="2732862" type="application/octet-stream" sparkle:edSignature="w2REyKooIhHX2hmo0I3z/TlRefd+09XIlW9EI0U/8sZZZdZkE4qFvr5vNgGfKCAVpLWNw+ixOlBKEh5b0D3CAA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/Bobor-mrkva/bookworm-releases/releases/download/latest/Bookworm13-9.delta" sparkle:deltaFrom="9" length="580158" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sXuil1SCh+aooYdmDkBVPadk5hS6DaLbykIB7t9ElTM4Vp7il0BS+BC0CgP6xHUOT5BCyKoJUMI7rkmJplIUDw=="/>
-                <enclosure url="https://github.com/Bobor-mrkva/bookworm-releases/releases/download/latest/Bookworm13-6.delta" sparkle:deltaFrom="6" length="807274" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="aI8rO88jjS1vXvCm1HD7gBzjkzIUUiGsvDERa0DJ3ue4TZ5nwNo/vs6UuEVOWcP9mu4S41QUNvrT9JNdcFR9Bw=="/>
-                <enclosure url="https://github.com/Bobor-mrkva/bookworm-releases/releases/download/latest/Bookworm13-5.delta" sparkle:deltaFrom="5" length="806774" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="b8fxe3xQFwOZvha4kh74VwgT7vwFdrpwPn41JGJyEmKbmoGwY7fom4Yr5S36W0bcYTdnINWuCiEG1j4zRGGdAw=="/>
-                <enclosure url="https://github.com/Bobor-mrkva/bookworm-releases/releases/download/latest/Bookworm13-4.delta" sparkle:deltaFrom="4" length="822690" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Whr7YERcDHm8r8zJv604LYdBwgMpXe4qHr8jWV0/fa79F94rQvYAo+hJnptUzditUTkWq+N4n3qrPPIZ54XJCA=="/>
-                <enclosure url="https://github.com/Bobor-mrkva/bookworm-releases/releases/download/latest/Bookworm13-3.delta" sparkle:deltaFrom="3" length="828246" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pBne5aa/VBHkyT9nmPR69L+EbDsthzn0wAzhR0EEIcqeW8FH72cQxiJaWrxLfGiVYAuGKtNLfBhpbmWiYquLCA=="/>
             </sparkle:deltas>
         </item>
     </channel>
